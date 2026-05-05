@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.35.0 (2026-05-05)
+
+Full Changelog: [v2.34.0...v2.35.0](https://github.com/openai/openai-python/compare/v2.34.0...v2.35.0)
+
+### Features
+
+* **api:** launch realtime translate + update image 2 ([0ba55d7](https://github.com/openai/openai-python/commit/0ba55d7569565045426e1587906a70d5682a4bba))
+* **api:** manual updates ([72bf67a](https://github.com/openai/openai-python/commit/72bf67acbc9f030c20db3d5a1a74ea6d67d55f51))
+
 ## 2.34.0 (2026-05-04)
 
 Full Changelog: [v2.33.0...v2.34.0](https://github.com/openai/openai-python/compare/v2.33.0...v2.34.0)
